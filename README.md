@@ -1,7 +1,8 @@
 # Lite-apps-subscriber-android
 
 LASA: Lite Apps Subscriber App
-It is a subscriber app developed using raw java code.Here user can subscribe any listed sevice by pressing the subscribe button.  
+
+-It is a subscriber app developed using raw java code.Here user can subscribe any listed sevice by pressing the subscribe button.  
 They do not need to type keyword in dialbox or keypad to subscribe any service/app.
 When user open the app, they can see the services listed in the front page. If they want to subscribe any of them, 
 they will just tap the particular button, it will send them automatically in the dialbox with keywords.
